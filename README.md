@@ -6,7 +6,7 @@ This project demonstrates trends in technology adoption and digital connectivity
 ---
 
 ## 🚀 Demo
-Live Demo: [Your Live Link Here](https://your-live-demo-link.com)
+Live Demo: [https://stabat47.github.io/cameroon-internet-penetration-scatter-plot/](https://stabat47.github.io/cameroon-internet-penetration-scatter-plot/)
 
 ---
 
